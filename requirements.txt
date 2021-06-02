@@ -3,5 +3,5 @@ asyncio==3.4.3
 pyee==7.0.1
 pyppeteer==0.0.25
 tqdm==4.45.0
-urllib3==1.25.8
+urllib3==1.26.5
 websockets==8.1
